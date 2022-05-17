@@ -5,9 +5,9 @@
     
   ## Description
   This application uses Node to create a custom webpage to display members of your team with contact information. This program uses Object Oriented Programming to organize information on different types of positions.
-  <p align="center">
-  ![Team Page Generator](https://user-images.githubusercontent.com/95864720/168881966-c58cc65f-fa0d-4901-8b1e-9afe6d5ec6d7.gif)
-  </p>
+  
+ ![Team Page Generator](https://user-images.githubusercontent.com/95864720/168881966-c58cc65f-fa0d-4901-8b1e-9afe6d5ec6d7.gif)
+
 
   ## Table of Contents
   - [Description](#description)
