@@ -1,0 +1,28 @@
+{
+  "name": "the-team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "jest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcv12/Team-Profile-Generator.git"
+  },
+  "author": "john c vayianos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcv12/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/jcv12/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
