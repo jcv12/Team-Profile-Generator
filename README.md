@@ -34,6 +34,8 @@
 
   ## Tests
   The tests directory has several tests powered by jest
+  
+  https://user-images.githubusercontent.com/95864720/168887313-56ec685d-2b45-425c-a2e6-5af6c09875b4.mp4
 
   ## Questions
   Contact me via github or email<br />
