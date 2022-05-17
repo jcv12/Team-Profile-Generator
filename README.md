@@ -4,7 +4,7 @@
   ![badge](https://img.shields.io/badge/license-Academic-brightgreen)<br />
     
   ## Description
-  This application uses Node to create a custom webpage to display members of your team with contact information
+  This application uses Node to create a custom webpage to display members of your team with contact information. This program uses Object Oriented Programming to organize information on different types of positions.
 
   ## Table of Contents
   - [Description](#description)
